@@ -1,2 +1,2 @@
 # bitview-main
-BitView source code by copy 
+BitView source code 
